@@ -1,0 +1,35 @@
+header{
+  background: #dc4fad;
+  padding: 10px 20px;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 10;
+  overflow: hidden;
+}
+
+.atur{
+  bottom: 100px;
+  margin-left: -400px;
+  left: 50%;
+  margin-bottom: 150px;
+  max-width: 650px;
+  padding-top: 350px;
+}
+
+.saja{
+  bottom: 100px;
+  margin-left: -400px;
+  left: 50%;
+  margin-bottom: 150px;
+  max-width: 650px;
+  padding-top: 130px;
+}
+
+.lah{
+  padding-top: 50px;
+}
+
+.gambar{
+  width: 150px;
+  height: 400px;
+}
